@@ -1,31 +1,74 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "Post 1"
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateOfBirth": "06/10/1995",
+      "nricFin": "000000",
+      "email": "John@gmail.com",
+      "mobile": "9991231566",
+      "areaCode": "+63",
+      "postalCode": "+63",
+      "startDate": "06/10/2019",
+      "medicalCredits": "1000",
+      "wellnessCredits": "1000"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "firstName": "Zion",
+      "lastName": "Parsons",
+      "dateOfBirth": "06/10/1995",
+      "nricFin": "000000",
+      "email": "Zion@gmail.com",
+      "mobile": "9991231566",
+      "areaCode": "+63",
+      "postalCode": "+63",
+      "startDate": "06/10/2019",
+      "medicalCredits": "1000",
+      "wellnessCredits": "1000"
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "firstName": "Kenny",
+      "lastName": "Conrad",
+      "dateOfBirth": "06/10/1995",
+      "nricFin": "000000",
+      "email": "Conrad@gmail.com",
+      "mobile": "9991231566",
+      "areaCode": "+63",
+      "postalCode": "+63",
+      "startDate": "06/10/2019",
+      "medicalCredits": "1000",
+      "wellnessCredits": "1000"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "firstName": "Alena ",
+      "lastName": "Butler",
+      "dateOfBirth": "06/10/1995",
+      "nricFin": "000000",
+      "email": "Butler@gmail.com",
+      "mobile": "9991231566",
+      "areaCode": "+63",
+      "postalCode": "+63",
+      "startDate": "06/10/2019",
+      "medicalCredits": "1000",
+      "wellnessCredits": "1000"
+    },
+    {
+      "id": 5,
+      "firstName": "Keira ",
+      "lastName": "Stevenson",
+      "dateOfBirth": "06/10/1995",
+      "nricFin": "000000",
+      "email": "Keira@gmail.com",
+      "mobile": "9991231566",
+      "areaCode": "+63",
+      "postalCode": "+63",
+      "startDate": "06/10/2019",
+      "medicalCredits": "1000",
+      "wellnessCredits": "1000"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
