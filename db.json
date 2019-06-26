@@ -12,7 +12,18 @@
       "postalCode": "+63",
       "startDate": "06/10/2019",
       "medicalCredits": "1000",
-      "wellnessCredits": "1000"
+      "wellnessCredits": "1000",
+      "dependents": [
+        {
+          "id": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "nricFin": "000000",
+        "relation": "Child",
+        "dateOfBirth": "06/10/1995",
+        "startDate": "06/10/2019"
+        }
+      ]
     },
     {
       "id": 2,
@@ -26,7 +37,8 @@
       "postalCode": "+63",
       "startDate": "06/10/2019",
       "medicalCredits": "1000",
-      "wellnessCredits": "1000"
+      "wellnessCredits": "1000",
+      "dependents": []
     },
     {
       "id": 3,
@@ -40,7 +52,8 @@
       "postalCode": "+63",
       "startDate": "06/10/2019",
       "medicalCredits": "1000",
-      "wellnessCredits": "1000"
+      "wellnessCredits": "1000",
+      "dependents": []
     },
     {
       "id": 4,
@@ -54,7 +67,8 @@
       "postalCode": "+63",
       "startDate": "06/10/2019",
       "medicalCredits": "1000",
-      "wellnessCredits": "1000"
+      "wellnessCredits": "1000",
+      "dependents": []
     },
     {
       "id": 5,
@@ -68,7 +82,8 @@
       "postalCode": "+63",
       "startDate": "06/10/2019",
       "medicalCredits": "1000",
-      "wellnessCredits": "1000"
+      "wellnessCredits": "1000",
+      "dependents": []
     }
   ]
 }
