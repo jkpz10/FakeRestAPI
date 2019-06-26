@@ -1,5 +1,14 @@
 {
-  "users": [
+  "hr_accounts": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin1234",
+      "email": "admin@gmail.com",
+      "account_type": "admin"
+    }
+  ],
+  "employees": [
     {
       "id": 1,
       "firstName": "John",
@@ -62,21 +71,6 @@
       "dateOfBirth": "06/10/1995",
       "nricFin": "000000",
       "email": "Butler@gmail.com",
-      "mobile": "9991231566",
-      "areaCode": "+63",
-      "postalCode": "+63",
-      "startDate": "06/10/2019",
-      "medicalCredits": "1000",
-      "wellnessCredits": "1000",
-      "dependents": []
-    },
-    {
-      "id": 5,
-      "firstName": "Keira ",
-      "lastName": "Stevenson",
-      "dateOfBirth": "06/10/1995",
-      "nricFin": "000000",
-      "email": "Keira@gmail.com",
       "mobile": "9991231566",
       "areaCode": "+63",
       "postalCode": "+63",
